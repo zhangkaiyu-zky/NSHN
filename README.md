@@ -1,7 +1,7 @@
 #IMSI
 
 ## Model View
-![image](https://github.com/zhangkaiyu-zky/ISMI/blob/main/IMSI/%E6%A8%A1%E5%9E%8B%E5%9B%BE5.png)
+![image](https://github.com/zhangkaiyu-zky/NSHN/blob/main/1.png)
 ## Dataset Specification
 - data/ kg_sl2 contains necessary data or scripts for generating data.
   - train.txt: The data included in the training dataset
